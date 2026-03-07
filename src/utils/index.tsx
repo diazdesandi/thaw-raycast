@@ -6,6 +6,5 @@ export const openThawUrl = async (url: string, successMessage: string) => {
     await showHUD(successMessage);
   } catch (error) {
     await showHUD(`Failed to open URL: ${error}`);
-    console.error(error);
   }
 };
