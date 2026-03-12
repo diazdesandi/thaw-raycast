@@ -1,6 +1,8 @@
-# Thaw for Raycast
+# Thaw Raycast Extension
 
-Control [Thaw](https://github.com/stonerl/Thaw) — the macOS menu bar manager — directly from Raycast. Toggle visibility sections, search menu bar items, and open settings without touching your mouse.
+Control [Thaw](https://github.com/stonerl/Thaw) directly from Raycast. Toggle visibility sections, search menu bar items, and open settings without touching your mouse.
+
+![Thaw Raycast Extension Demo](./metadata/thaw-01.png)
 
 ## Requirements
 
