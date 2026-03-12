@@ -11,7 +11,7 @@ export default function Command() {
           subtitle={action.subtitle}
           actions={
             <ActionPanel>
-              <Action title="Open" onAction={() => open(action.url)} />
+              <Action title="Run Action" onAction={async () => await open(action.url)} />
             </ActionPanel>
           }
         />

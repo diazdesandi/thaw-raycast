@@ -4,6 +4,7 @@
   "title": "Thaw",
   "description": "Thaw menu bar manager for Raycast",
   "icon": "extension-icon.png",
+  "categories": ["Applications"],
   "version": "0.1.0",
   "author": "diazdesandi",
   "platforms": [
